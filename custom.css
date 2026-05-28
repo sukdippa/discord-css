@@ -143,7 +143,8 @@ body {
 .messagesPopoutWrap_e8b59c,
 .newMessagesBar__0f481,
 .container_fc561d,
-.container__4f20e {
+.container__4f20e,
+.browser_d98031 {
   backdrop-filter: blur(20px) saturate(1.2);
   -webkit-backdrop-filter: blur(20px) saturate(1.2);
 }
@@ -168,7 +169,6 @@ body {
   filter: blur(24px);
 }
 
-div[role="dialog"], 
 div[role="menu"],
 .open_c322aa,
 .container__16eb0 {
